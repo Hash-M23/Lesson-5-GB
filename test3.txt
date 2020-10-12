@@ -1,0 +1,3 @@
+Petya 20000
+Vanya 15000
+Ksenia 13000
